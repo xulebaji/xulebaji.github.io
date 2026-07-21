@@ -10,7 +10,23 @@
   <rights>All rights reserved 2026, Yanxu Zhou</rights>
   <subtitle>记录自我提升过程的日记本</subtitle>
   <title>周言旭的博客</title>
-  <updated>2026-07-21T07:59:55.129Z</updated>
+  <updated>2026-07-21T12:30:48.385Z</updated>
+  <entry>
+    <author>
+      <name>Yanxu Zhou</name>
+    </author>
+    <content>
+      <![CDATA[<h1 id="测试图片功能"><a href="#测试图片功能" class="headerlink" title="测试图片功能"></a>测试图片功能</h1><p><img src="/images/post/test1.jpeg" alt="这是图片的描述"></p>]]>
+    </content>
+    <id>http://example.com/2026/07/21/%E6%8F%92%E5%9B%BE%E6%B5%8B%E8%AF%95/</id>
+    <link href="http://example.com/2026/07/21/%E6%8F%92%E5%9B%BE%E6%B5%8B%E8%AF%95/"/>
+    <published>2026-07-21T12:21:54.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="测试图片功能"><a href="#测试图片功能" class="headerlink" title="测试图片功能"></a>测试图片功能</h1><p><img src="/images/post/test1.jpeg" alt="这是图片的描述"></p>]]>
+    </summary>
+    <title>插图测试</title>
+    <updated>2026-07-21T12:30:48.385Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Yanxu Zhou</name>
@@ -25,7 +41,7 @@
       <![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p>测试</p>]]>
     </summary>
     <title>测试</title>
-    <updated>2026-07-21T07:59:55.129Z</updated>
+    <updated>2026-07-21T12:30:48.385Z</updated>
   </entry>
   <entry>
     <author>
@@ -42,14 +58,14 @@
       <![CDATA[<h1 id="部署的过程"><a href="#部署的过程" class="headerlink" title="部署的过程"></a><strong>部署的过程</strong></h1><p>这几天把主题改了，部署到了GitHub Page上，AI还是太傻，本来十分钟就可以]]>
     </summary>
     <title>部署的过程</title>
-    <updated>2026-07-21T07:59:55.129Z</updated>
+    <updated>2026-07-21T12:30:48.385Z</updated>
   </entry>
   <entry>
     <author>
       <name>Yanxu Zhou</name>
     </author>
-    <category term="初体验" scheme="http://example.com/tags/%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
     <category term="新手" scheme="http://example.com/tags/%E6%96%B0%E6%89%8B/"/>
+    <category term="初体验" scheme="http://example.com/tags/%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
     <content>
       <![CDATA[<h2 id="这是我的博客破壳日"><a href="#这是我的博客破壳日" class="headerlink" title="这是我的博客破壳日"></a>这是我的博客破壳日</h2><p>通过 Hexo，我成功搭建了这个博客。<br>并且正在使用vscode二次编辑。</p><h3 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h3><ul><li>设想<br>  早在初中甚至小学阶段，就觉得自己建一个网站特别酷，写一写博客，那是顶级程序员每天做的事情，灵巧的手指敲击键盘，抒慨一天的情绪，巧解各类难题。</li><li>为难<br>  想象中的我也是这样有着自己的博客，可以写写日记，不用纸质，保留我的成长经历。但是，过程屡屡败退，网上查阅各种教程都最终放弃，不是太麻烦就是看不上。早就听闻过GitHub pages、wordpress什么名词，但终是没有深入了解。所以一直搁置了。</li><li>动手<br>  今天是大一暑假第三天，心血来潮，静下心借助Deepseek的辅助指导，确定我要做一个静态的博客，利用Hexo搭建了这个博客。此时还没有域名和服务器，只能本地访问，我就已经欣喜若狂了，有种小时候下到一些破解软件的不可思议感。</li></ul><h3 id="思索"><a href="#思索" class="headerlink" title="思索"></a>思索</h3><p>&emsp;&emsp;整体过程很短，大概半个下午加上晚上。主要是现在LLM的强大，没有它的指导，可能我到现在还在网上一篇一篇浏览教程或者查阅视频呢，最终可能还是一无所获。<br>&emsp;&emsp;其实感觉写博客好无聊，不知道有什么可以写的，而且有时候觉得某些话可能不太合适想要重新修改，修改后就把原来的想法覆盖了，不像纸写日记可以保留原来的话。</p>]]>
     </content>
@@ -60,6 +76,6 @@
       <![CDATA[<h2 id="这是我的博客破壳日"><a href="#这是我的博客破壳日" class="headerlink" title="这是我的博客破壳日"></a>这是我的博客破壳日</h2><p>通过 Hexo，我成功搭建了这个博客。<br>并且正在使用vscode二次编辑。</]]>
     </summary>
     <title>MY FIRST BLOG.</title>
-    <updated>2026-07-21T07:59:55.129Z</updated>
+    <updated>2026-07-21T12:30:48.385Z</updated>
   </entry>
 </feed>
