@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, Yanxu Zhou</rights>
   <subtitle>记录自我提升过程的日记本</subtitle>
   <title>周言旭的博客</title>
-  <updated>2026-07-21T07:38:53.662Z</updated>
+  <updated>2026-07-21T07:45:22.592Z</updated>
   <entry>
     <author>
       <name>Yanxu Zhou</name>
@@ -20,12 +20,12 @@
     </content>
     <id>http://example.com/2026/07/21/hello-world/</id>
     <link href="http://example.com/2026/07/21/hello-world/"/>
-    <published>2026-07-21T07:38:53.662Z</published>
+    <published>2026-07-21T07:45:22.592Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-07-21T07:38:53.662Z</updated>
+    <updated>2026-07-21T07:45:22.592Z</updated>
   </entry>
   <entry>
     <author>
@@ -42,7 +42,7 @@
       <![CDATA[<h1 id="部署的过程"><a href="#部署的过程" class="headerlink" title="部署的过程"></a><strong>部署的过程</strong></h1><p>这几天把主题改了，部署到了GitHub Page上，AI还是太傻，本来十分钟就可以]]>
     </summary>
     <title>部署的过程</title>
-    <updated>2026-07-21T07:38:53.662Z</updated>
+    <updated>2026-07-21T07:45:22.592Z</updated>
   </entry>
   <entry>
     <author>
@@ -60,6 +60,6 @@
       <![CDATA[<h2 id="这是我的博客破壳日"><a href="#这是我的博客破壳日" class="headerlink" title="这是我的博客破壳日"></a>这是我的博客破壳日</h2><p>通过 Hexo，我成功搭建了这个博客。<br>并且正在使用vscode二次编辑。</]]>
     </summary>
     <title>MY FIRST BLOG.</title>
-    <updated>2026-07-21T07:38:53.662Z</updated>
+    <updated>2026-07-21T07:45:22.592Z</updated>
   </entry>
 </feed>
