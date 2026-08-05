@@ -10,7 +10,41 @@
   <rights>All rights reserved 2026, Yanxu Zhou</rights>
   <subtitle>记录自我提升过程的日记本</subtitle>
   <title>周言旭的博客</title>
-  <updated>2026-07-22T06:42:04.087Z</updated>
+  <updated>2026-08-05T14:50:13.963Z</updated>
+  <entry>
+    <author>
+      <name>Yanxu Zhou</name>
+    </author>
+    <category term="Telegram" scheme="http://example.com/tags/Telegram/"/>
+    <category term="申诉" scheme="http://example.com/tags/%E7%94%B3%E8%AF%89/"/>
+    <content>
+      <![CDATA[<h1 id="Telegram账号被冻结？解禁过程很简单"><a href="#Telegram账号被冻结？解禁过程很简单" class="headerlink" title="Telegram账号被冻结？解禁过程很简单"></a>Telegram账号被冻结？解禁过程很简单</h1><p>今天冻结了近一周的Telegram账号解冻，想要写一篇文章记录一下心路历程。</p><p><img src="/images/post/Telegram%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%86%BB%E7%BB%93%E8%A7%A3%E7%A6%81%E7%BB%8F%E5%8E%86/%E4%B8%BB%E5%9B%BE.webp" alt=" "></p><h2 id="得知被封禁"><a href="#得知被封禁" class="headerlink" title="得知被封禁"></a>得知被封禁</h2><p>大概冻结的两天前，我给tg号增加了二步验证，并且更改了绑定邮箱。</p><p>其实前几天我一直以为是这个原因，但是今天申诉成功的经历告诉我，接下来的才是真正的原因。</p><p>那天下午我在搜索群组搜索一些敏感的关键词，因为是群组，而且我没有订阅会员（我现在才知道tg是只有会员才能禁止陌生人私聊的，之前我都以为是我没有找对设置入口），突然间一堆陌生人发来私信骚扰。</p><p>在被封禁后我查看历史消息复盘，发现就有一个联系过我的人，和我一样状态都是“已冻结的账号”。</p><p>当天晚上给了我一个月的冻结时间，此后账号清空。让我找spam bot申诉。当时是慌乱的，生怕哪一点出错导致给我永久封禁。</p><figure>  <img src="/images/post/Telegram账号被冻结解禁经历/初次封禁通知.png" alt="Telegram冻结通知">  <figcaption style="text-align: center; color: #888; font-size: 0.9em; margin-top: 5px;">    冻结通知  </figcaption></figure><h2 id="探索时期"><a href="#探索时期" class="headerlink" title="探索时期"></a>探索时期</h2><h3 id="第一次"><a href="#第一次" class="headerlink" title="第一次"></a>第一次</h3><p>第一次找bot解封是在当晚，我询问了ChatGPT，表明我平常在tg上做的事情主要是<del>看片</del>，由于tg还把我的几个就我一个人的群组给封禁了，其中一个群组是我转发其他频道优质内容的。我把这些我认为不良问题发给GPT，让它分析。因为当时真的不知道我哪里出问题了，所以不敢写的太详细，不然透漏更多内容更不给我解封了（因为我确实加入了两三个<del>黑灰群</del>，不过里面只有一群人吹牛和数不尽的广告）</p><p>bot：</p><blockquote><p>Please write us more details about your case. Why do you think your account was blocked, what went wrong?</p></blockquote><p>让把GPT生成的文本粘贴进去</p><p>之后是人机验证完毕后：</p><p>bot：</p><blockquote><p>Dear xxxxxx,<br>The team’s supervisors have reviewed your appeal and all relevant materials. We regret to inform you that your appeal has been denied and the restrictions have not been lifted.</p></blockquote><p>这就是第一次申请得到的答复。挺失望的，但是可以意料到。浏览很多网页，都说申诉成功的概率很低，都在劝放弃。有人说1&#x2F;3，有人说1%的人能申诉成功。</p><h3 id="第二次"><a href="#第二次" class="headerlink" title="第二次"></a>第二次</h3><p>准备了几分钟，我进入第二次申诉。这次更加正式了，内容就不放了，从现在的经验来看，申诉的成功与模板或者他人的文本无关。</p><p>这一次我说的很笼统，相信这是误封了。结果等了一个多小时，都第二天了，也没有音讯。我&#x2F;start了一下，也不知道上一天申诉有没有提交，应该是得重新提交一遍了。</p><h3 id="第三次"><a href="#第三次" class="headerlink" title="第三次"></a>第三次</h3><p>这一次我说的更加笼统、更加简短。<br>只是说了这是一次错误审查，麻烦重新检查我的账号。</p><p>此后一直没有消息了。</p><p>点击&#x2F;start后只有一句</p><blockquote><p>You’ve already submitted a complaint recently. Our team’s supervisors will check it as soon as possible. Thank you for your patience.</p></blockquote><h2 id="发送邮件"><a href="#发送邮件" class="headerlink" title="发送邮件"></a>发送邮件</h2><p>等了两天也没有回应，一直是等待主管审核。我在论坛上看了，也有一些人是这样的情况，他们的甚至一个月里面都是这样的情况。</p><p>我等不了了，决定给官方发邮件。其实我很早就想要发了，但是GPT建议我等几天发。这几天一直在打磨修改内容。</p><p>我把我能想到的理由全部列上去了，唯独没有列我常浏览NSFW内容以及使用搜索群组，毕竟都是见不得光的东西。</p><p>发送完邮件GPT建议我等待至少48小时查看有没有结果。我一直没有check我的状态。</p><h2 id="重新在bot申诉"><a href="#重新在bot申诉" class="headerlink" title="重新在bot申诉"></a>重新在bot申诉</h2><p>一直没有邮件回复。今天我不报有希望地check了一下，发现竟然让我重新提交申诉了。我不知道这是不是邮件起的效果还是冷却期已经过了。</p><p>我把我发送的邮件内容原封不动发送过去。</p><p>3分钟后结果就出来了</p><blockquote><p>Dear xxxxxx,<br>The team’s supervisors have reviewed your appeal and all relevant materials. We regret to inform you that your appeal has been denied and the restrictions have not been lifted.</p></blockquote><h3 id="新的一次"><a href="#新的一次" class="headerlink" title="新的一次"></a>新的一次</h3><p>既然给我申诉机会，这次我打开了电脑记事本，打开翻译软件和GPT，打开浏览器查找成功案例。</p><p><a href="https://www.nodeseek.com/post-734169-1">https://www.nodeseek.com/post-734169-1</a></p><p>这篇帖子其实早就浏览过，但是最后只能把原因归为帖子中分析的“被其他用户举报”。我都没有主动和他人聊过天，除了zzm。回想当时的情况，借助查看tg聊天记录。推断是我在一个群组搜索完<del>不给看</del>，大量陌生人私聊我向我推销，我没有理睬他们，由于tg是有已读功能的，可能是有人急了或是无聊手贱点了举报（我也不知道我没有给他发过消息他能不能举报，举报应该得有聊天记录佐证的啊），</p><p>或者就是其中一个大概和我同时间被冻结目前还在冻结的人当时是唯一一个给我发送加入频道链接的，他可能早被标记了（在查找资料我也看到不少人被冻结是因为主页简介推广什么酒馆AI这种擦边群组了，所以tg对群组推广链接应该是把控比较严格的）</p><p>无论如何，这似乎都与我在这个搜索群组搜索了<del>不给看</del>有关系，我决定坦诚交代，这将是我最后的底线，再往深的说我也真的没做什么违法的事情了。简单描述了我的意思发送给GPT帮我润色得非常完美。</p><p><strong>内容承认自己在那个群组搜索过东西，有不少陌生人私聊发spam，但是自己没有回应。大概往这个方向说。</strong></p><p>虽然这一次没有十足的把握，但是相比之前，我还是信心足了一些的。</p><p>上午提交的，等到下午还是没有消息，我&#x2F;start了一下，查看状态，似乎又是被清空了，和第二次申诉时一样。我把能说的全说了，无其他话可说了。</p><h3 id="再一次"><a href="#再一次" class="headerlink" title="再一次"></a>再一次</h3><p>只好把上午的内容再复制一遍发送过去。这一次的信心远远没有上午充足了，已经做好了失败的打算。</p><h2 id="申诉成功"><a href="#申诉成功" class="headerlink" title="申诉成功"></a>申诉成功</h2><p>过了一二十分钟，我打算看一下申诉状态，惊奇的发现红色文字没有了，消息还更新了。</p><figure>  <img src="/images/post/Telegram账号被冻结解禁经历/your-account-is-frozen.png" alt="Telegram is showing that 'your account is frozen'">  <figcaption style="text-align: center; color: #888; font-size: 0.9em; margin-top: 5px;">    冻结状态下的提示：Your account is frozen!  </figcaption></figure>下滑找到机器人，终于见到了和在论坛上同款成功案例的回复。<blockquote><p>Dear xxxxxx,<br>Your complaint has been reviewed by the team’s supervisor. Good news, all restrictions have been removed from your account!<br>To make sure your account doesn’t get limited in the future, please only contact people if you’re sure that they are expecting messages from you. Naturally, the same applies to adding people to groups and channels.</p></blockquote><p>是啊！这真是一个GOOD NEWS!  再次&#x2F;starts</p><p>bot回复</p><blockquote><p>Good news, no limits are currently applied to your account. You’re free as a bird!</p></blockquote><p>赶紧退了几个危险的群组，还有其他不常浏览的群以后退，不敢一次性退太多，免得再次被冻结。打开设置禁止他人私信我，发现竟然要订阅会员才有这个功能。</p><figure>  <img src="/images/post/Telegram账号被冻结解禁经历/会员功能.png" alt="Telegram禁止私信是会员功能？">  <figcaption style="text-align: center; color: #888; font-size: 0.9em; margin-top: 5px;">    禁止私信是会员功能？  </figcaption></figure><p>这一周我可太沧桑了。</p><div style="margin-top: 50px; text-align: left; color: #888; font-size: 0.9em;">写于  2026-8-5<p>家中</p></div>]]>
+    </content>
+    <id>http://example.com/2026/08/05/Telegram%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%86%BB%E7%BB%93%E8%A7%A3%E7%A6%81%E7%BB%8F%E5%8E%86/</id>
+    <link href="http://example.com/2026/08/05/Telegram%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%86%BB%E7%BB%93%E8%A7%A3%E7%A6%81%E7%BB%8F%E5%8E%86/"/>
+    <published>2026-08-05T10:33:33.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="Telegram账号被冻结？解禁过程很简单"><a href="#Telegram账号被冻结？解禁过程很简单" class="headerlink" title="Telegram账号被冻结？解禁过程很简单"></a>Telegram账号被冻结？解禁过程很简单</]]>
+    </summary>
+    <title>Telegram账号被冻结解禁经历</title>
+    <updated>2026-08-05T14:50:13.963Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Yanxu Zhou</name>
+    </author>
+    <content>
+      <![CDATA[<h1 id="本地创建"><a href="#本地创建" class="headerlink" title="本地创建"></a>本地创建</h1><h2 id="1-选定用hexo框架创建静态博客部署至GitHub-pages。"><a href="#1-选定用hexo框架创建静态博客部署至GitHub-pages。" class="headerlink" title="1. 选定用hexo框架创建静态博客部署至GitHub pages。"></a>1. 选定用hexo框架创建静态博客部署至GitHub pages。</h2><p>优点：不用服务器，不需要管理数据库，</p><h2 id="2-Windows管理不算方便，考虑使用Linux，虚拟机麻烦，便使用wsl"><a href="#2-Windows管理不算方便，考虑使用Linux，虚拟机麻烦，便使用wsl" class="headerlink" title="2. Windows管理不算方便，考虑使用Linux，虚拟机麻烦，便使用wsl"></a>2. Windows管理不算方便，考虑使用Linux，虚拟机麻烦，便使用wsl</h2><p>通过wsl安装Ubuntu虚拟机</p><h2 id="3-ubuntu"><a href="#3-ubuntu" class="headerlink" title="3. ubuntu"></a>3. ubuntu</h2><h1 id="上传到GitHub仓库"><a href="#上传到GitHub仓库" class="headerlink" title="上传到GitHub仓库"></a>上传到GitHub仓库</h1><h1 id="通过GitHub-pages部署"><a href="#通过GitHub-pages部署" class="headerlink" title="通过GitHub pages部署"></a>通过GitHub pages部署</h1><p>。。。。。未完待续</p>]]>
+    </content>
+    <id>http://example.com/2026/07/22/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/</id>
+    <link href="http://example.com/2026/07/22/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/"/>
+    <published>2026-07-22T11:48:04.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="本地创建"><a href="#本地创建" class="headerlink" title="本地创建"></a>本地创建</h1><h2 id="1-选定用hexo框架创建静态博客部署至GitHub-pages。"><a href="#1-选定用hexo框架创]]>
+    </summary>
+    <title>个人博客创建简明教程</title>
+    <updated>2026-08-05T14:50:13.963Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Yanxu Zhou</name>
@@ -25,7 +59,7 @@
       <![CDATA[<h1 id="测试图片功能"><a href="#测试图片功能" class="headerlink" title="测试图片功能"></a>测试图片功能</h1><p><img src="/images/post/test1.jpeg" alt="这是图片的描述"></p>]]>
     </summary>
     <title>插图测试</title>
-    <updated>2026-07-22T06:42:04.087Z</updated>
+    <updated>2026-08-05T14:50:13.963Z</updated>
   </entry>
   <entry>
     <author>
@@ -41,7 +75,7 @@
       <![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p>测试</p>]]>
     </summary>
     <title>测试</title>
-    <updated>2026-07-22T06:42:04.087Z</updated>
+    <updated>2026-08-05T14:50:13.963Z</updated>
   </entry>
   <entry>
     <author>
@@ -58,7 +92,7 @@
       <![CDATA[<h1 id="部署的过程"><a href="#部署的过程" class="headerlink" title="部署的过程"></a><strong>部署的过程</strong></h1><p>这几天把主题改了，部署到了GitHub Page上，AI还是太傻，本来十分钟就可以]]>
     </summary>
     <title>部署的过程</title>
-    <updated>2026-07-22T06:42:04.087Z</updated>
+    <updated>2026-08-05T14:50:13.963Z</updated>
   </entry>
   <entry>
     <author>
@@ -76,6 +110,6 @@
       <![CDATA[<h2 id="这是我的博客破壳日"><a href="#这是我的博客破壳日" class="headerlink" title="这是我的博客破壳日"></a>这是我的博客破壳日</h2><p>通过 Hexo，我成功搭建了这个博客。<br>并且正在使用vscode二次编辑。</]]>
     </summary>
     <title>MY FIRST BLOG.</title>
-    <updated>2026-07-22T06:42:04.086Z</updated>
+    <updated>2026-08-05T14:50:13.963Z</updated>
   </entry>
 </feed>
