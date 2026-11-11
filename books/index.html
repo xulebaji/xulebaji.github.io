@@ -1,0 +1,278 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>记录自我提升过程的日记本 │ 周言旭的博客</title><link rel="stylesheet" href="/css/oasis.css"><meta name="generator" content="Hexo 8.1.2"><link rel="alternate" href="/atom.xml" title="周言旭的博客" type="application/atom+xml">
+</head><body><div id="content"><h1 id="title">周言旭的博客<br><small>记录自我提升过程的日记本</small></h1><div id="menu-outer"><nav id="menu-inner"><a class="menu-item" href="/">Home</a><a class="menu-item" href="/about">About</a><a class="menu-item" href="/contact">Contact</a><a class="menu-item" href="/archives">Archives</a></nav></div><div id="content-outer"><div id="content-inner"><article id="page"><!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>价格行为交易 · 书架</title>
+<script>
+(function(){try{
+  var t=localStorage.getItem('pl-shelf-theme');
+  if(!t&&window.matchMedia&&matchMedia('(prefers-color-scheme:dark)').matches)t='dark';
+  if(t)document.documentElement.dataset.theme=t;
+}catch(e){}})();
+</script>
+<style>
+:root{
+  --paper:#f7f3ea; --paper2:#efe9db; --card:#fffdf8;
+  --ink:#211e19; --ink2:#514b42; --muted:#8a8174; --line:#e3dac8;
+  --wood1:#dcc094; --wood2:#bd9a66; --wood3:#93703c;
+  --accent:#0f6b63;
+  --shadow:0 2px 3px rgba(60,45,25,.10),0 18px 36px -14px rgba(60,45,25,.35);
+  --serif:"Songti SC","STSong","SimSun","Noto Serif SC",serif;
+}
+html[data-theme="dark"]{
+  --paper:#141311; --paper2:#1a1815; --card:#211e19;
+  --ink:#ece6da; --ink2:#c8c0b1; --muted:#8f8778; --line:#322d25;
+  --wood1:#6f5836; --wood2:#57432a; --wood3:#3a2c1b;
+  --accent:#5ecfc2;
+  --shadow:0 2px 3px rgba(0,0,0,.5),0 18px 36px -14px rgba(0,0,0,.65);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; min-height:100vh; color:var(--ink);
+  background:
+    radial-gradient(1200px 500px at 50% -10%, var(--paper2), transparent 70%),
+    var(--paper);
+  font-family:system-ui,-apple-system,"PingFang SC","HarmonyOS Sans SC","Noto Sans SC","Microsoft YaHei",sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1040px;margin:0 auto;padding:0 24px}
+
+/* ---------- header ---------- */
+.top{display:flex;align-items:flex-start;justify-content:space-between;gap:20px;padding:56px 0 34px}
+.kicker{margin:0 0 10px;font-size:12px;letter-spacing:.28em;color:var(--muted);text-transform:uppercase}
+h1{margin:0;font-family:var(--serif);font-size:clamp(30px,5vw,44px);font-weight:600;letter-spacing:.14em;line-height:1.2}
+.sub{margin:12px 0 0;color:var(--muted);font-size:14px;letter-spacing:.06em}
+.theme-btn{
+  flex:0 0 auto;margin-top:6px;padding:8px 14px;border:1px solid var(--line);border-radius:99px;
+  background:transparent;color:var(--ink2);font-size:13px;cursor:pointer;font-family:inherit;
+  transition:background .2s,color .2s,border-color .2s;
+}
+.theme-btn:hover{background:var(--paper2);color:var(--ink)}
+
+/* ---------- shelf ---------- */
+.shelf{position:relative;margin:0 0 54px}
+.shelf-label{display:flex;align-items:center;gap:14px;margin:0 0 14px 2px;color:var(--muted);font-size:12px;letter-spacing:.26em}
+.shelf-label::after{content:"";flex:1;height:1px;background:var(--line)}
+.books{display:flex;justify-content:center;align-items:flex-end;gap:2px;padding:0 16px 16px;position:relative}
+.shelf::after{
+  content:"";position:absolute;left:0;right:0;bottom:0;height:16px;border-radius:2px 2px 4px 4px;
+  background:linear-gradient(180deg,var(--wood1),var(--wood2) 55%,var(--wood3));
+  box-shadow:0 14px 28px -10px rgba(60,45,25,.45), inset 0 1px 0 rgba(255,255,255,.35);
+}
+.shelf .books::after{
+  content:"";position:absolute;left:5%;right:5%;bottom:16px;height:24px;
+  background:radial-gradient(60% 100% at 50% 100%, rgba(50,35,15,.22), transparent 70%);
+  pointer-events:none;
+}
+
+.book{
+  position:relative;display:block;flex:0 0 auto;
+  width:64px;height:320px;
+  border-radius:3px 7px 7px 3px;
+  background:linear-gradient(160deg,var(--c1),var(--c2));
+  box-shadow:var(--shadow);
+  text-decoration:none;color:inherit;
+  transform-origin:50% 100%;
+  transition:width .42s cubic-bezier(.22,.8,.24,1),
+             transform .42s cubic-bezier(.22,.8,.24,1),
+             box-shadow .42s;
+}
+.book:hover,.book:focus-visible{width:244px;transform:translateY(-9px);box-shadow:0 4px 6px rgba(60,45,25,.12),0 26px 50px -16px rgba(60,45,25,.5);outline:none}
+.book:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+
+.b1{--c1:#12786f;--c2:#08403b}
+.b2{--c1:#c05d0c;--c2:#7f3b05}
+.b3{--c1:#b0402e;--c2:#74281c}
+.b4{--c1:#3a5a6e;--c2:#20343f}
+.b5{--c1:#4a3f2c;--c2:#241f16}
+
+/* spine */
+.spine{
+  position:absolute;inset:0;border-radius:inherit;overflow:hidden;
+  display:flex;flex-direction:column;align-items:center;justify-content:space-between;
+  padding:18px 0 16px;color:#f6efdf;
+}
+.spine::after{
+  content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;
+  background:linear-gradient(90deg,rgba(255,255,255,.16),rgba(255,255,255,.02) 22%,rgba(0,0,0,.10) 62%,rgba(0,0,0,.28));
+}
+.spine span{writing-mode:vertical-rl;position:relative;z-index:1}
+.s-num{font-family:var(--serif);font-size:13px;letter-spacing:.1em;opacity:.75}
+.s-title{font-family:var(--serif);font-size:19px;font-weight:600;letter-spacing:.34em;text-indent:.34em}
+.s-series{font-size:10.5px;letter-spacing:.3em;opacity:.62}
+
+/* face */
+.face{
+  position:absolute;inset:0;border-radius:inherit;overflow:hidden;
+  display:flex;flex-direction:column;justify-content:flex-end;
+  padding:24px 20px 22px;
+  background:var(--card);color:var(--ink);
+  opacity:0;transition:opacity .22s ease .12s;
+}
+.face::before{content:"";position:absolute;top:0;left:0;right:0;height:7px;background:var(--c1)}
+.book:hover .face,.book:focus-visible .face{opacity:1}
+.f-kicker{margin:0;font-size:11px;letter-spacing:.22em;color:var(--muted);white-space:nowrap}
+.f-title{margin:8px 0 0;font-family:var(--serif);font-size:27px;font-weight:600;letter-spacing:.14em;line-height:1.25;white-space:nowrap}
+.f-sub{margin:10px 0 0;font-size:11.5px;line-height:1.6;color:var(--muted);letter-spacing:.02em;overflow:hidden}
+.f-meta{margin:14px 0 0;font-size:12px;color:var(--ink2);letter-spacing:.08em}
+.f-cta{margin-top:auto;padding-top:18px;font-size:13px;letter-spacing:.16em;color:var(--accent);white-space:nowrap}
+
+/* ---------- toc ---------- */
+.toc{margin:10px 0 90px}
+.toc-head{display:flex;align-items:center;gap:14px;margin:0 0 6px;color:var(--muted);font-size:12px;letter-spacing:.26em}
+.toc-head::after{content:"";flex:1;height:1px;background:var(--line)}
+.toc a{
+  display:flex;align-items:baseline;gap:16px;
+  padding:15px 10px;border-radius:10px;text-decoration:none;color:var(--ink);
+  border-bottom:1px solid var(--line);
+  transition:background .18s;
+}
+.toc a:hover{background:var(--paper2)}
+.toc .n{flex:0 0 auto;width:26px;font-family:var(--serif);font-size:13px;color:var(--muted)}
+.toc .t{flex:1;font-size:15px;letter-spacing:.06em}
+.toc .s{flex:0 0 auto;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.toc .arrow{flex:0 0 auto;color:var(--muted);font-size:13px;transition:transform .18s,color .18s}
+.toc a:hover .arrow{transform:translateX(3px);color:var(--accent)}
+
+footer{padding:0 0 48px;text-align:center;color:var(--muted);font-size:12px;letter-spacing:.14em}
+
+/* ---------- mobile ---------- */
+@media (max-width:760px){
+  .top{padding:36px 0 26px}
+  .books{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;padding:0}
+  .shelf{padding-bottom:0;margin-bottom:40px}
+  .shelf::after,.books::after{display:none}
+  .book{width:auto;height:auto;aspect-ratio:3/4.05;transform:none!important}
+  .spine{display:none}
+  .face{opacity:1;position:relative;inset:auto;height:100%;padding:20px 16px 18px}
+  .face::before{height:6px}
+  .f-title{font-size:23px}
+  .f-sub{display:none}
+  .f-cta{padding-top:12px}
+  .toc{margin-bottom:56px}
+  .toc .t{font-size:14px}
+}
+@media (prefers-reduced-motion:reduce){
+  .book,.face,.toc a,.toc .arrow{transition:none}
+}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <p class="kicker">Al Brooks · 私人书架</p>
+      <h1>价格行为交易</h1>
+      <p class="sub">原著讲义与精读笔记 · 共 5 册</p>
+    </div>
+    <button class="theme-btn" id="themeBtn" type="button">暗色</button>
+  </header>
+
+  <section class="shelf">
+    <p class="shelf-label">精读三部曲</p>
+    <div class="books">
+      <a class="book b1" href="Al Brooks《价格行为交易➊趋势》精读笔记.html">
+        <span class="spine"><span class="s-num">Ⅰ</span><span class="s-title">趋势</span><span class="s-series">精读笔记</span></span>
+        <span class="face">
+          <span class="f-kicker">精读笔记 · 第一册</span>
+          <span class="f-title">趋势</span>
+          <span class="f-sub">Trading Price Action: Trends</span>
+          <span class="f-meta">Al Brooks</span>
+          <span class="f-cta">打开阅读 →</span>
+        </span>
+      </a>
+      <a class="book b2" href="Al Brooks《价格行为交易➋区间》精读笔记.html">
+        <span class="spine"><span class="s-num">Ⅱ</span><span class="s-title">区间</span><span class="s-series">精读笔记</span></span>
+        <span class="face">
+          <span class="f-kicker">精读笔记 · 第二册</span>
+          <span class="f-title">区间</span>
+          <span class="f-sub">Trading Price Action: Trading Ranges</span>
+          <span class="f-meta">Al Brooks</span>
+          <span class="f-cta">打开阅读 →</span>
+        </span>
+      </a>
+      <a class="book b3" href="Al Brooks《价格行为交易➌反转》精读笔记.html">
+        <span class="spine"><span class="s-num">Ⅲ</span><span class="s-title">反转</span><span class="s-series">精读笔记</span></span>
+        <span class="face">
+          <span class="f-kicker">精读笔记 · 第三册</span>
+          <span class="f-title">反转</span>
+          <span class="f-sub">Trading Price Action: Reversals</span>
+          <span class="f-meta">Al Brooks</span>
+          <span class="f-cta">打开阅读 →</span>
+        </span>
+      </a>
+    </div>
+  </section>
+
+  <section class="shelf">
+    <p class="shelf-label">原著与讲义</p>
+    <div class="books">
+      <a class="book b4" href="Al Brooks《日本蜡烛图交易技术》学习笔记.html">
+        <span class="spine"><span class="s-num">Ⅳ</span><span class="s-title">蜡烛图</span><span class="s-series">学习笔记</span></span>
+        <span class="face">
+          <span class="f-kicker">学习笔记</span>
+          <span class="f-title">日本蜡烛图</span>
+          <span class="f-sub">Japanese Candlestick Charting Techniques</span>
+          <span class="f-meta">Al Brooks</span>
+          <span class="f-cta">打开阅读 →</span>
+        </span>
+      </a>
+      <a class="book b5" href="Al Brooks 价格行为交易讲义.html">
+        <span class="spine"><span class="s-num">Ⅴ</span><span class="s-title">讲义</span><span class="s-series">课程讲义</span></span>
+        <span class="face">
+          <span class="f-kicker">课程讲义</span>
+          <span class="f-title">价格行为交易</span>
+          <span class="f-sub">Trading Price Action · Lecture Notes</span>
+          <span class="f-meta">Al Brooks</span>
+          <span class="f-cta">打开阅读 →</span>
+        </span>
+      </a>
+    </div>
+  </section>
+
+  <section class="toc">
+    <p class="toc-head">目录</p>
+    <a href="Al Brooks《价格行为交易➊趋势》精读笔记.html">
+      <span class="n">Ⅰ</span><span class="t">价格行为交易 ➊ 趋势 · 精读笔记</span><span class="s">6.0 MB</span><span class="arrow">→</span>
+    </a>
+    <a href="Al Brooks《价格行为交易➋区间》精读笔记.html">
+      <span class="n">Ⅱ</span><span class="t">价格行为交易 ➋ 区间 · 精读笔记</span><span class="s">7.6 MB</span><span class="arrow">→</span>
+    </a>
+    <a href="Al Brooks《价格行为交易➌反转》精读笔记.html">
+      <span class="n">Ⅲ</span><span class="t">价格行为交易 ➌ 反转 · 精读笔记</span><span class="s">9.6 MB</span><span class="arrow">→</span>
+    </a>
+    <a href="Al Brooks《日本蜡烛图交易技术》学习笔记.html">
+      <span class="n">Ⅳ</span><span class="t">日本蜡烛图交易技术 · 学习笔记</span><span class="s">7.8 MB</span><span class="arrow">→</span>
+    </a>
+    <a href="Al Brooks 价格行为交易讲义.html">
+      <span class="n">Ⅴ</span><span class="t">价格行为交易讲义</span><span class="s">18.2 MB</span><span class="arrow">→</span>
+    </a>
+  </section>
+
+  <footer>5 册 · 本地整合版</footer>
+</div>
+
+<script>
+(function(){
+  var root=document.documentElement, btn=document.getElementById('themeBtn');
+  function sync(){
+    var dark=root.dataset.theme==='dark';
+    btn.textContent=dark?'浅色':'暗色';
+    btn.setAttribute('aria-label',dark?'切换到浅色模式':'切换到暗色模式');
+  }
+  sync();
+  btn.addEventListener('click',function(){
+    var next=root.dataset.theme==='dark'?'light':'dark';
+    root.dataset.theme=next;
+    try{localStorage.setItem('pl-shelf-theme',next);}catch(e){}
+    sync();
+  });
+})();
+</script>
+</body>
+</html>
+</article><div id="paginator"></div></div></div><div id="bottom-outer"><div id="bottom-inner"><hr><div><div><a>2026@ Yanxu Zhou</a><a href="/atom.xml"><img src="/assets/rss.png"></a></div><div id="hexo"><a>Powered by&nbsp</a><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><a>&nbsp&&nbsp</a><a target="_blank" rel="noopener" href="https://github.com/qiantao94/hexo-theme-oasis">Oasis</a></div></div></div></div></div></body><script src="/js/oasis.js"></script></html>
